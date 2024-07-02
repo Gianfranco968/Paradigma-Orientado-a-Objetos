@@ -4,4 +4,5 @@ Nos han contratado para el desarrollo de un sistema de gestión para la cooperat
 -  Informar todas las compras de un socio dado su DNI
 -  Informar el puntaje total de un socio dado su DNI
 -  Informar todas las compras de todos los socios
+
 NOTA: para cada compra considerar el código de compra, descripción, fecha y total
