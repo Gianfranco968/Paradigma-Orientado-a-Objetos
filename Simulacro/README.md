@@ -7,6 +7,6 @@ Nos han contratado para el desarrollo de un software para una importante agencia
 - Se debe calcular la ganancia total por todos los autos de la agencia. 
 
 A partir del enunciado anterior debe: 
-1- Crear un caso de uso y realizar el diagrama de secuencia.  
-2- Realizar el diagrama de clases correspondiente.  
-3- Implementar en código Java las funcionalidades definidas anteriormente de acuerdo al diseño realizado. 
+-  Crear un caso de uso y realizar el diagrama de secuencia.
+-  Realizar el diagrama de clases correspondiente.
+-  Implementar en código Java las funcionalidades definidas anteriormente de acuerdo al diseño realizado. 
